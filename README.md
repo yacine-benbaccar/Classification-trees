@@ -4,3 +4,4 @@
   Classification trees
 #### Lab: 
   Using classification trees to recognize a hand written digit from the MINST dataset.
+  ![preview](./preview.png)
